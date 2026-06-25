@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://github.com/amitkojha05.png" width="140" />
-</p>
-
 
 <h1 align="center">Hi 👋, I'm Amit Kumar Ojha</h1>
 
